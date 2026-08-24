@@ -1,1 +1,1 @@
-# cadastro-de-produto
+# cadastro-de-produto Trabalho criado com a intenção de cadastrar produtos com seu preço e sua quantidade, basicamente você digita o nome do produto, informa a quantidade e cadastra ai o produto é enviado para o back-end que recebe os dados que ficam salvos no banco de dados falsos que foi criado para este projeto.
